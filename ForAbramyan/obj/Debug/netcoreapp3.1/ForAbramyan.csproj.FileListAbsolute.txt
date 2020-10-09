@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.exe
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.deps.json
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.runtimeconfig.json
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.dll
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\bin\Debug\netcoreapp3.1\ForAbramyan.pdb
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.AssemblyInfo.cs
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.dll
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.pdb
+C:\Users\glebo\source\repos\ForAbramyan\ForAbramyan\obj\Debug\netcoreapp3.1\ForAbramyan.genruntimeconfig.cache
