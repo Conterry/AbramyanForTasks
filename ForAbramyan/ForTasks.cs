@@ -2,7 +2,7 @@
 
 namespace ForAbramyan
 {
-    public class ForAbramyan
+    public class ForTasks
     {
         static void Main(string[] args)
         {
@@ -14,6 +14,7 @@ namespace ForAbramyan
             int value = Convert.ToInt32(Console.ReadLine());
             return value;
         }
+
         public static double ReadDouble()
         {
             double value = Convert.ToDouble(Console.ReadLine());
@@ -120,6 +121,35 @@ namespace ForAbramyan
             {
                 Console.WriteLine(a + h);
             }
+        }
+
+        public static void For33()
+        {
+            int n = ReadInt();
+            int f1 = 1, f2 = 1, res;
+
+            Console.WriteLine(f1);
+            Console.WriteLine(f2);
+            for(int i = 2; i < n; i++)
+            {
+                res = f1;
+                f1 = f2;
+                f2 = res + f2;
+                Console.WriteLine(f2);
+            }
+        }
+
+        public static void For37()
+        {
+            int n = ReadInt();
+            double s=0;
+
+            for (int i = 1; i <= n; i++)
+            {
+                s += Math.Pow(i, i);
+            }
+
+            Console.WriteLine(s);
         }
     }
 }
