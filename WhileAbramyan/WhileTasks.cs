@@ -45,9 +45,9 @@ namespace WhileAbramyan
             Console.WriteLine(n);
         }
 
-        public static void While9()
+        public static int While9(int n)
         {
-            int n = ReadInt();
+            
             int k = 0;
 
             while(n >= Math.Pow(3, k))
@@ -55,7 +55,7 @@ namespace WhileAbramyan
                 k++;
             }
 
-            Console.WriteLine(k);
+            return k
         }
 
         public static void While12()
@@ -74,10 +74,9 @@ namespace WhileAbramyan
             Console.WriteLine(s);
         }
 
-        public static void While15()
+        public static int While15(double p)
         {
             double Money = 1000;
-            double p = ReadDouble();
             int i = 0;
 
             while(Money < 1100d)
@@ -86,7 +85,7 @@ namespace WhileAbramyan
                 i++;
             }
 
-            Console.WriteLine(i);
+            return i;   
         }
 
         public static bool While20()

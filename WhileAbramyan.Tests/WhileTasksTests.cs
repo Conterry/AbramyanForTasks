@@ -13,7 +13,20 @@ namespace WhileAbramyan.Tests
             int n = 8;
             double expected = 2;
 
-            
+            int actual = WhileTasks.While9(n);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public static void While12_10_1()
+        {
+            int n = 10;
+            double expected = 1;
+
+            int actual = WhileTasks.While9(n);
+
+            Assert.AreEqual(expected, actual);
         }
     }
 }
