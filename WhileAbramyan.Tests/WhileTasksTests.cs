@@ -24,7 +24,7 @@ namespace WhileAbramyan.Tests
             int n = 10;
             double expected = 1;
 
-            int actual = WhileTasks.While9(n);
+            int actual = WhileTasks.While12(n);
 
             Assert.AreEqual(expected, actual);
         }
