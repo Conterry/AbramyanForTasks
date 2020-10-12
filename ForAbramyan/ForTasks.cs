@@ -1,4 +1,6 @@
-﻿    using System;
+﻿using System;
+using System.Transactions;
+
 
 namespace ForAbramyan
 {
@@ -42,28 +44,28 @@ namespace ForAbramyan
             }
         }
 
-        public static void For9()
+        public static int For9(int a, int b)
         {
-            int a = ReadInt(), b = ReadInt();
             int s = 0;
 
             for(int i = a; a <= b; i++)
             {
                 s += i * i;
             }
-            Console.WriteLine(s);
+            return s;
         }
 
-        public static void For13()
+        public static double For13(int n)
         {
-            int n = ReadInt(), k=1;
+            int k=1;
             double s = 0, f = 1.1;
 
             for(double i = 1; i<=n ; i+= 1, k*=-1, f+=0.1)
             {
                 s += f*k;
             }
-            Console.WriteLine(s);
+
+            return s;
         }
 
         public static void For17()

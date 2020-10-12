@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dwazmbGqyGlrQ1LTm+hIMvW5JXuOL/ICqXnhN8XYsdaboKF+8UORrBob7xXfXNYhb9wIyLnq7uBNuJ0dn7qgVA==",
+  "dgSpecHash": "qfJeN1ty4T4NHNgJYUV+0wZA6awGhv3x3GcKnpyrA/yUEs4zQ4AGd2NFz8Q27R7tIh3uFhDaxAcVR8rxLn5rUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\glebo\\source\\repos\\ForAbramyan\\ForTests.Tests\\ForTests.Tests.csproj",
+  "projectFilePath": "C:\\Users\\glebo\\source\\repos\\ForAbramyan\\ForTests.Tests\\ForAbramyan.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glebo\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\glebo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

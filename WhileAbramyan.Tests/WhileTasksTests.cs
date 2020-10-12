@@ -2,21 +2,18 @@ using Microsoft.VisualStudio.TestPlatform.TestHost;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-
-namespace ForTests.Tests
+namespace WhileAbramyan.Tests
 {
     [TestClass]
-    public class ForTests
+    public class WhileTasksTests
     {
         [TestMethod]
-        public void For9_1and3_14()
+        public static void While9_8_2()
         {
-            int a = 1;
-            int b = 3;
-            int expected = 14;
+            int n = 8;
+            double expected = 2;
 
             
-
         }
     }
 }
